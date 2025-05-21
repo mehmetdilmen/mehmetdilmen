@@ -1,5 +1,5 @@
 # About Me:
-<br>🌱 I'm Senior Frontend Developer from Istanbul<br>
+<br>🌱 Technical Lead at Kariyer.net - Istanbul<br>
 
 
 ## 🌐 Socials:
