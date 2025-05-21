@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>🌱 I'm Senior Frontend Developer from Istanbul<br>
 
 
